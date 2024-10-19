@@ -229,4 +229,8 @@ int main() {
     lista.wyswietlListe();
 
     return 0;
+<<<<<<< HEAD
 }
+=======
+}   
+>>>>>>> parent of 686e393 (siodmy commit)
