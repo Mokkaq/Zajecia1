@@ -229,12 +229,3 @@ int main() {
     lista.wyswietlListe();
 
     return 0;
-<<<<<<< HEAD
-<<<<<<< HEAD
-}
-=======
-}   
->>>>>>> parent of 686e393 (siodmy commit)
-=======
-}
->>>>>>> parent of 5b535fd (piąty commit)
