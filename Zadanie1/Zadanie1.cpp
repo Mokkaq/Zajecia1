@@ -229,4 +229,4 @@ int main() {
     lista.wyswietlListe();
 
     return 0;
-}
+}   
